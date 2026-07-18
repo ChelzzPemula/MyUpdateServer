@@ -1,6 +1,6 @@
 {
-    "versionCode": 2,
-    "versionName": "1.1",
-    "apkUrl": "https://github.com/USERNAME/REPO/raw/main/app-v1.1.apk",
-    "changelog": "• UI baru\n• Perbaikan bug"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://raw.githubusercontent.com/ChelzzPemula/MyUpdateServer/main/SensiX-v1.1.apk",
+  "changelog": "- UI baru\n- Perbaikan bug"
 }
