@@ -1,8 +1,8 @@
 {
-  "show": false,
+  "show": true,
   "id": 2,
-  "title": "",
-  "message": "",
-  "button": "",
-  "url": ""
+  "title": "Update v1.3",
+  "message": "• Perbaikan bug\n• Optimasi performa",
+  "button": "Download Sekarang",
+  "url": "https://example.com/download"
 }
