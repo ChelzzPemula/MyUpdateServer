@@ -1,8 +1,8 @@
 {
-  "show": false,
-  "id": 2,
-  "title": "",
-  "message": "",
-  "button": "",
-  "url": ""
+  "show": true,
+  "id": 1,
+  "title": "Update v1.2",
+  "message": "• Menambahkan Import JSON\n• Menambahkan Export JSON",
+  "button": "Download Sekarang",
+  "url": "https://your-download-link.com"
 }
