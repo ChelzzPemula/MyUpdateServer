@@ -1,9 +1,8 @@
 {
-  "show": true,
-  "version": "1.2.0",
-  "title": "Update Baru Tersedia",
-  "message": "• Import JSON\n• Export JSON\n• Perbaikan bug\n• Optimasi performa",
-  "button": "Download Sekarang",
-  "url": "https://github.com/username/repo/releases/latest",
-  "id": 1
+  "show": false,
+  "id": 1,
+  "title": "",
+  "message": "",
+  "button": "",
+  "url": ""
 }
